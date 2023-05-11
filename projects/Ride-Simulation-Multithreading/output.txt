@@ -1,0 +1,1123 @@
+Passenger 1 enters the museum at 495
+Passenger 2 enters the museum at 495
+Passenger 6 enters the museum at 759
+Passenger 3 enters the museum at 572
+Passenger 5 enters the museum at 637
+Passenger 4 enters the museum at 705
+Passenger 7 enters the museum at 831
+Passenger 3 made a ride request at 864
+Passenger 8 enters the museum at 901
+Passenger 9 enters the museum at 930
+Passenger 7 made a ride request at 940
+Passenger 10 enters the museum at 993
+Passenger 9 made a ride request at 999
+Passenger 11 enters the museum at 1018
+Passenger 12 enters the museum at 1073
+Passenger 10 made a ride request at 1077
+Passenger 13 enters the museum at 1125
+Passenger 13 made a ride request at 1190
+Passenger 14 enters the museum at 1215
+Passenger 12 made a ride request at 1239
+Passenger 14 made a ride request at 1278
+Passenger 1 made a ride request at 1828
+Car 1 accepts Passenger 9's request
+Passenger 9 started riding at 1932
+Car 1 is riding Passenger 9
+Car 2 accepts Passenger 13's request
+Passenger 13 started riding at 1974
+Car 2 is riding Passenger 13
+Car 3 accepts Passenger 12's request
+Passenger 12 started riding at 2009
+Car 3 is riding Passenger 12
+Car 4 accepts Passenger 1's request
+Passenger 15 enters the museum at 2046
+Passenger 11 made a ride request at 2116
+Passenger 1 started riding at 2046
+Car 4 is riding Passenger 1
+Passenger 24 enters the museum at 2142
+Passenger 16 enters the museum at 2210
+Passenger 16 made a ride request at 2273
+Passenger 23 enters the museum at 2274
+Passenger 24 made a ride request at 2286
+Car 5 accepts Passenger 7's request
+Passenger 7 started riding at 2425
+Car 5 is riding Passenger 7
+Passenger 23 made a ride request at 2446
+Passenger 4 made a ride request at 2865
+Passenger 27 enters the museum at 3283
+Passenger 21 enters the museum at 3349
+Passenger 26 enters the museum at 3361
+Passenger 22 enters the museum at 3386
+Passenger 21 made a ride request at 3404
+Passenger 25 enters the museum at 3411
+Passenger 15 made a ride request at 4306
+Passenger 17 enters the museum at 4396
+Passenger 26 made a ride request at 4454
+Car 6 accepts Passenger 23's request
+Passenger 23 started riding at 4466
+Car 6 is riding Passenger 23
+Passenger 32 enters the museum at 4511
+Passenger 32 made a ride request at 4566
+Passenger 20 enters the museum at 4603
+Passenger 19 enters the museum at 4611
+Passenger 31 enters the museum at 4639
+Passenger 29 enters the museum at 4675
+Passenger 2 made a ride request at 5827
+Passenger 19 made a ride request at 5837
+Passenger 5 made a ride request at 5913
+Passenger 6 made a ride request at 6108
+Passenger 22 made a ride request at 6822
+Passenger 20 made a ride request at 8347
+Passenger 25 made a ride request at 8432
+Passenger 29 made a ride request at 10316
+Passenger 28 enters the museum at 10347
+Passenger 17 made a ride request at 10364
+Passenger 31 made a ride request at 10695
+Passenger 27 made a ride request at 10925
+Car 2 has finished Passenger 13's tour
+Passenger 13 finished riding at 12032
+Passenger 28 made a ride request at 12076
+Passenger 13 made a ride request at 12088
+Car 4 has finished Passenger 1's tour
+Passenger 1 finished riding at 12188
+Car 3 has finished Passenger 12's tour
+Passenger 12 finished riding at 12466
+Car 5 has finished Passenger 7's tour
+Passenger 7 finished riding at 12484
+Passenger 7 made a ride request at 12541
+Passenger 34 enters the museum at 12661
+Car 1 has finished Passenger 9's tour
+Passenger 9 finished riding at 13059
+Passenger 1 made a ride request at 13244
+Passenger 9 made a ride request at 13450
+Passenger 12 made a ride request at 13451
+Car 1 accepts Passenger 6's request
+Passenger 6 started riding at 17042
+Car 1 is riding Passenger 6
+Car 6 has finished Passenger 23's tour
+Passenger 23 finished riding at 22842
+Passenger 23 made a ride request at 24248
+Passenger 34 made a ride request at 24895
+Car 4 accepts Passenger 11's request
+Car 1 has finished Passenger 6's tour
+Passenger 6 finished riding at 28348
+Car 1 accepts Passenger 2's request
+Passenger 2 started riding at 28397
+Car 1 is riding Passenger 2
+Passenger 8 made a ride request at 28411
+Passenger 33 enters the museum at 28534
+Passenger 18 enters the museum at 28546
+Passenger 11 started riding at 30833
+Car 4 is riding Passenger 11
+Car 7 accepts Passenger 20's request
+Passenger 20 started riding at 30844
+Car 7 is riding Passenger 20
+Passenger 18 made a ride request at 30859
+Passenger 30 enters the museum at 31317
+Car 8 accepts Passenger 26's request
+Passenger 26 started riding at 31325
+Car 8 is riding Passenger 26
+Car 9 accepts Passenger 10's request
+Passenger 10 started riding at 31344
+Car 9 is riding Passenger 10
+Car 10 accepts Passenger 9's request
+Passenger 9 started riding at 31362
+Car 10 is riding Passenger 9
+Passenger 6 made a ride request at 31375
+Car 11 accepts Passenger 13's request
+Passenger 13 started riding at 31378
+Car 11 is riding Passenger 13
+Passenger 30 made a ride request at 31386
+Car 12 accepts Passenger 28's request
+Passenger 28 started riding at 31395
+Car 12 is riding Passenger 28
+Car 13 accepts Passenger 30's request
+Passenger 30 started riding at 31414
+Car 13 is riding Passenger 30
+Passenger 35 enters the museum at 28593
+Car 14 accepts Passenger 34's request
+Passenger 34 started riding at 31434
+Car 14 is riding Passenger 34
+Car 15 accepts Passenger 7's request
+Passenger 7 started riding at 31454
+Car 15 is riding Passenger 7
+Car 16 accepts Passenger 3's request
+Passenger 3 started riding at 31473
+Car 16 is riding Passenger 3
+Car 17 accepts Passenger 12's request
+Passenger 12 started riding at 31489
+Car 17 is riding Passenger 12
+Car 18 accepts Passenger 16's request
+Passenger 16 started riding at 31513
+Car 18 is riding Passenger 16
+Car 19 accepts Passenger 23's request
+Passenger 23 started riding at 31527
+Car 19 is riding Passenger 23
+Car 20 accepts Passenger 1's request
+Passenger 1 started riding at 31561
+Car 20 is riding Passenger 1
+Car 21 accepts Passenger 22's request
+Passenger 22 started riding at 31579
+Car 21 is riding Passenger 22
+Car 22 accepts Passenger 4's request
+Passenger 4 started riding at 31602
+Car 22 is riding Passenger 4
+Car 23 accepts Passenger 29's request
+Passenger 29 started riding at 31624
+Car 23 is riding Passenger 29
+Car 24 accepts Passenger 14's request
+Passenger 14 started riding at 31643
+Car 24 is riding Passenger 14
+Car 25 accepts Passenger 19's request
+Passenger 19 started riding at 31669
+Car 25 is riding Passenger 19
+Passenger 35 made a ride request at 32479
+Passenger 33 made a ride request at 33853
+Car 1 has finished Passenger 2's tour
+Passenger 2 finished riding at 38455
+Car 1 accepts Passenger 8's request
+Passenger 8 started riding at 38532
+Car 1 is riding Passenger 8
+Car 3 accepts Passenger 5's request
+Passenger 5 started riding at 38670
+Car 3 is riding Passenger 5
+Car 4 has finished Passenger 11's tour
+Passenger 11 finished riding at 40893
+Car 7 has finished Passenger 20's tour
+Passenger 20 finished riding at 40896
+Car 8 has finished Passenger 26's tour
+Passenger 26 finished riding at 41384
+Car 9 has finished Passenger 10's tour
+Passenger 10 finished riding at 41403
+Car 10 has finished Passenger 9's tour
+Passenger 9 finished riding at 41421
+Car 11 has finished Passenger 13's tour
+Passenger 13 finished riding at 41435
+Car 12 has finished Passenger 28's tour
+Passenger 28 finished riding at 41455
+Car 4 accepts Passenger 6's request
+Car 14 has finished Passenger 34's tour
+Passenger 10 made a ride request at 41459
+Passenger 34 finished riding at 41460
+Car 13 has finished Passenger 30's tour
+Passenger 30 finished riding at 41472
+Passenger 9 made a ride request at 41475
+Passenger 13 made a ride request at 41491
+Car 15 has finished Passenger 7's tour
+Passenger 7 finished riding at 41513
+Car 17 has finished Passenger 12's tour
+Passenger 12 finished riding at 41517
+Passenger 30 made a ride request at 41529
+Car 16 has finished Passenger 3's tour
+Passenger 3 finished riding at 41549
+Car 18 has finished Passenger 16's tour
+Passenger 16 finished riding at 41576
+Passenger 12 made a ride request at 41578
+Car 19 has finished Passenger 23's tour
+Passenger 23 finished riding at 41581
+Passenger 7 made a ride request at 41571
+Car 20 has finished Passenger 1's tour
+Passenger 1 finished riding at 41618
+Car 21 has finished Passenger 22's tour
+Passenger 22 finished riding at 43907
+Car 2 accepts Passenger 7's request
+Passenger 7 started riding at 43919
+Car 2 is riding Passenger 7
+Passenger 16 made a ride request at 41670
+Passenger 23 made a ride request at 41668
+Car 15 accepts Passenger 9's request
+Passenger 9 started riding at 43941
+Car 15 is riding Passenger 9
+Car 24 has finished Passenger 14's tour
+Passenger 14 finished riding at 43952
+Car 25 has finished Passenger 19's tour
+Passenger 19 finished riding at 43956
+Car 23 has finished Passenger 29's tour
+Passenger 29 finished riding at 43960
+Passenger 26 made a ride request at 42439
+Car 19 accepts Passenger 27's request
+Passenger 27 started riding at 43976
+Passenger 2 made a ride request at 43512
+Passenger 34 made a ride request at 43515
+Car 22 has finished Passenger 4's tour
+Passenger 4 finished riding at 44011
+Car 13 accepts Passenger 13's request
+Passenger 13 started riding at 44090
+Car 13 is riding Passenger 13
+Car 21 accepts Passenger 18's request
+Passenger 14 made a ride request at 44447
+Car 17 accepts Passenger 15's request
+Passenger 28 made a ride request at 42510
+Passenger 19 made a ride request at 45283
+Passenger 15 started riding at 45531
+Car 17 is riding Passenger 15
+Passenger 22 made a ride request at 46017
+Passenger 3 made a ride request at 41632
+Car 14 accepts Passenger 12's request
+Passenger 12 started riding at 46307
+Car 14 is riding Passenger 12
+Passenger 18 started riding at 45743
+Car 21 is riding Passenger 18
+Passenger 1 made a ride request at 45580
+Passenger 4 made a ride request at 46740
+Passenger 20 made a ride request at 42950
+Passenger 11 made a ride request at 41947
+Car 12 accepts Passenger 14's request
+Passenger 14 started riding at 46756
+Car 12 is riding Passenger 14
+Car 5 accepts Passenger 1's request
+Passenger 1 started riding at 46765
+Car 5 is riding Passenger 1
+Car 19 is riding Passenger 27
+Passenger 6 started riding at 42381
+Car 4 is riding Passenger 6
+Passenger 29 made a ride request at 48709
+Car 3 accepts Passenger 4's request
+Passenger 4 started riding at 48785
+Car 3 is riding Passenger 4
+Car 1 accepts Passenger 2's request
+Passenger 2 started riding at 49567
+Car 1 is riding Passenger 2
+Car 10 accepts Passenger 10's request
+Passenger 10 started riding at 49573
+Car 10 is riding Passenger 10
+Car 3 has finished Passenger 5's tour
+Passenger 5 finished riding at 49577
+Car 9 accepts Passenger 19's request
+Passenger 19 started riding at 52432
+Car 9 is riding Passenger 19
+Car 16 accepts Passenger 35's request
+Passenger 35 started riding at 52498
+Car 16 is riding Passenger 35
+Car 1 has finished Passenger 8's tour
+Passenger 8 finished riding at 53195
+Car 22 accepts Passenger 25's request
+Passenger 25 started riding at 53265
+Car 22 is riding Passenger 25
+Car 2 has finished Passenger 7's tour
+Passenger 7 finished riding at 53979
+Car 15 has finished Passenger 9's tour
+Passenger 9 finished riding at 54003
+Passenger 7 made a ride request at 54034
+Passenger 9 made a ride request at 54060
+Car 4 accepts Passenger 23's request
+Passenger 23 started riding at 54575
+Car 4 is riding Passenger 23
+Car 20 accepts Passenger 9's request
+Passenger 9 started riding at 54582
+Car 20 is riding Passenger 9
+Car 25 accepts Passenger 16's request
+Passenger 16 started riding at 54587
+Car 15 accepts Passenger 7's request
+Car 25 is riding Passenger 16
+Car 13 has finished Passenger 13's tour
+Passenger 13 finished riding at 54592
+Passenger 7 started riding at 54592
+Car 15 is riding Passenger 7
+Passenger 13 made a ride request at 54646
+Car 19 accepts Passenger 20's request
+Passenger 20 started riding at 55086
+Car 19 is riding Passenger 20
+Car 6 accepts Passenger 30's request
+Passenger 30 started riding at 55390
+Car 6 is riding Passenger 30
+Car 8 accepts Passenger 34's request
+Passenger 34 started riding at 55401
+Car 8 is riding Passenger 34
+Car 14 has finished Passenger 12's tour
+Passenger 12 finished riding at 56364
+Passenger 12 made a ride request at 56419
+Car 21 has finished Passenger 18's tour
+Passenger 18 finished riding at 56679
+Car 17 has finished Passenger 15's tour
+Passenger 15 finished riding at 56851
+Car 12 has finished Passenger 14's tour
+Passenger 14 finished riding at 56855
+Car 5 has finished Passenger 1's tour
+Passenger 1 finished riding at 56857
+Car 14 accepts Passenger 29's request
+Passenger 29 started riding at 56872
+Car 14 is riding Passenger 29
+Passenger 14 made a ride request at 56910
+Car 24 accepts Passenger 14's request
+Passenger 14 started riding at 56943
+Car 24 is riding Passenger 14
+Car 17 accepts Passenger 12's request
+Car 21 accepts Passenger 26's request
+Passenger 12 started riding at 57242
+Car 17 is riding Passenger 12
+Passenger 26 started riding at 57243
+Car 21 is riding Passenger 26
+Passenger 18 made a ride request at 57250
+Car 19 has finished Passenger 27's tour
+Passenger 27 finished riding at 57435
+Car 11 accepts Passenger 17's request
+Passenger 17 started riding at 57526
+Car 11 is riding Passenger 17
+Passenger 5 made a ride request at 57618
+Passenger 8 made a ride request at 57622
+Car 7 accepts Passenger 22's request
+Passenger 22 started riding at 57717
+Car 7 is riding Passenger 22
+Passenger 1 made a ride request at 57911
+Car 23 accepts Passenger 21's request
+Passenger 21 started riding at 58543
+Car 23 is riding Passenger 21
+Car 3 has finished Passenger 4's tour
+Passenger 4 finished riding at 58841
+Car 3 accepts Passenger 31's request
+Passenger 31 started riding at 58900
+Car 3 is riding Passenger 31
+Passenger 15 made a ride request at 58907
+Car 13 accepts Passenger 15's request
+Passenger 15 started riding at 58952
+Car 13 is riding Passenger 15
+Car 1 has finished Passenger 2's tour
+Passenger 2 finished riding at 59623
+Car 2 accepts Passenger 11's request
+Passenger 11 started riding at 59635
+Car 2 is riding Passenger 11
+Car 10 has finished Passenger 10's tour
+Passenger 10 finished riding at 59683
+Car 1 accepts Passenger 5's request
+Passenger 5 started riding at 59736
+Car 1 is riding Passenger 5
+Passenger 10 made a ride request at 59739
+Car 10 accepts Passenger 32's request
+Passenger 32 started riding at 59763
+Car 10 is riding Passenger 32
+Passenger 27 made a ride request at 60490
+Passenger 4 made a ride request at 60897
+Car 18 accepts Passenger 13's request
+Passenger 13 started riding at 61676
+Car 18 is riding Passenger 13
+Car 9 has finished Passenger 19's tour
+Passenger 19 finished riding at 62488
+Passenger 19 made a ride request at 62543
+Car 12 accepts Passenger 27's request
+Passenger 27 started riding at 62683
+Car 12 is riding Passenger 27
+Car 16 has finished Passenger 35's tour
+Passenger 35 finished riding at 62686
+Car 9 accepts Passenger 1's request
+Car 16 accepts Passenger 24's request
+Passenger 1 started riding at 62755
+Car 9 is riding Passenger 1
+Passenger 24 started riding at 62762
+Car 16 is riding Passenger 24
+Car 4 has finished Passenger 6's tour
+Passenger 6 finished riding at 63321
+Car 22 has finished Passenger 25's tour
+Passenger 25 finished riding at 63324
+Passenger 35 made a ride request at 63775
+Car 22 accepts Passenger 18's request
+Passenger 18 started riding at 64319
+Car 22 is riding Passenger 18
+Passenger 6 made a ride request at 64375
+Car 4 has finished Passenger 23's tour
+Passenger 23 finished riding at 64632
+Passenger 2 made a ride request at 64635
+Car 15 has finished Passenger 7's tour
+Car 25 has finished Passenger 16's tour
+Passenger 16 finished riding at 64653
+Passenger 7 finished riding at 64649
+Passenger 23 made a ride request at 64687
+Car 15 accepts Passenger 3's request
+Passenger 7 made a ride request at 64712
+Car 25 accepts Passenger 10's request
+Passenger 3 started riding at 64717
+Passenger 10 started riding at 64718
+Passenger 16 made a ride request at 64720
+Car 25 is riding Passenger 10
+Car 15 is riding Passenger 3
+Car 5 accepts Passenger 28's request
+Passenger 28 started riding at 64927
+Car 5 is riding Passenger 28
+Car 19 has finished Passenger 20's tour
+Passenger 20 finished riding at 65141
+Passenger 25 made a ride request at 65379
+Car 8 has finished Passenger 34's tour
+Passenger 34 finished riding at 65456
+Car 6 has finished Passenger 30's tour
+Passenger 30 finished riding at 65733
+Car 19 accepts Passenger 25's request
+Passenger 25 started riding at 66321
+Car 19 is riding Passenger 25
+Passenger 30 made a ride request at 66307
+Car 20 has finished Passenger 9's tour
+Passenger 9 finished riding at 66378
+Passenger 9 made a ride request at 66433
+Car 17 has finished Passenger 12's tour
+Passenger 12 finished riding at 67304
+Passenger 12 made a ride request at 67361
+Car 4 accepts Passenger 9's request
+Passenger 9 started riding at 67689
+Car 4 is riding Passenger 9
+Car 11 has finished Passenger 17's tour
+Car 24 has finished Passenger 14's tour
+Passenger 17 finished riding at 67695
+Passenger 14 finished riding at 67696
+Car 14 has finished Passenger 29's tour
+Passenger 29 finished riding at 67701
+Car 14 accepts Passenger 12's request
+Passenger 12 started riding at 67752
+Car 14 is riding Passenger 12
+Passenger 14 made a ride request at 67760
+Passenger 34 made a ride request at 67789
+Car 8 accepts Passenger 7's request
+Passenger 7 started riding at 67826
+Car 8 is riding Passenger 7
+Car 21 has finished Passenger 26's tour
+Passenger 26 finished riding at 67830
+Car 7 has finished Passenger 22's tour
+Passenger 22 finished riding at 68028
+Car 20 accepts Passenger 35's request
+Passenger 35 started riding at 68125
+Car 20 is riding Passenger 35
+Car 24 accepts Passenger 30's request
+Passenger 26 made a ride request at 68886
+Car 13 has finished Passenger 15's tour
+Passenger 15 finished riding at 69008
+Passenger 17 made a ride request at 69010
+Car 3 has finished Passenger 31's tour
+Passenger 31 finished riding at 69014
+Passenger 30 started riding at 69139
+Car 24 is riding Passenger 30
+Passenger 20 made a ride request at 69143
+Car 17 accepts Passenger 14's request
+Passenger 14 started riding at 69372
+Car 17 is riding Passenger 14
+Car 3 accepts Passenger 19's request
+Car 11 accepts Passenger 4's request
+Passenger 19 started riding at 69381
+Car 3 is riding Passenger 19
+Passenger 4 started riding at 69385
+Car 11 is riding Passenger 4
+Car 23 has finished Passenger 21's tour
+Passenger 21 finished riding at 69392
+Passenger 21 made a ride request at 69449
+Car 21 accepts Passenger 23's request
+Passenger 23 started riding at 69739
+Car 21 is riding Passenger 23
+Car 1 accepts Passenger 8's request
+Passenger 8 started riding at 69851
+Car 1 is riding Passenger 8
+Car 10 accepts Passenger 6's request
+Passenger 6 started riding at 69874
+Car 10 is riding Passenger 6
+Car 2 has finished Passenger 11's tour
+Passenger 11 finished riding at 69878
+Passenger 22 made a ride request at 70082
+Car 6 accepts Passenger 20's request
+Passenger 20 started riding at 70296
+Car 6 is riding Passenger 20
+Car 10 has finished Passenger 32's tour
+Passenger 32 finished riding at 70330
+Car 1 has finished Passenger 5's tour
+Passenger 5 finished riding at 70355
+Car 7 accepts Passenger 16's request
+Passenger 16 started riding at 70995
+Car 7 is riding Passenger 16
+Passenger 15 made a ride request at 71129
+Passenger 32 made a ride request at 71140
+Passenger 11 made a ride request at 71734
+Car 18 has finished Passenger 13's tour
+Passenger 13 finished riding at 71861
+Passenger 13 made a ride request at 72404
+Passenger 29 made a ride request at 72496
+Car 12 has finished Passenger 27's tour
+Passenger 27 finished riding at 72740
+Car 2 accepts Passenger 13's request
+Passenger 13 started riding at 72767
+Car 2 is riding Passenger 13
+Car 9 has finished Passenger 1's tour
+Passenger 1 finished riding at 72817
+Car 9 accepts Passenger 33's request
+Car 13 accepts Passenger 29's request
+Passenger 29 started riding at 72886
+Car 13 is riding Passenger 29
+Passenger 33 started riding at 72892
+Car 9 is riding Passenger 33
+Car 16 has finished Passenger 24's tour
+Passenger 24 finished riding at 73657
+Car 16 accepts Passenger 26's request
+Passenger 24 made a ride request at 73715
+Passenger 26 started riding at 73717
+Car 16 is riding Passenger 26
+Passenger 1 made a ride request at 73871
+Passenger 5 made a ride request at 74410
+Car 22 has finished Passenger 18's tour
+Passenger 18 finished riding at 74464
+Passenger 18 made a ride request at 74590
+Car 23 accepts Passenger 15's request
+Passenger 15 started riding at 74665
+Car 23 is riding Passenger 15
+Car 15 accepts Passenger 2's request
+Passenger 2 started riding at 74836
+Car 15 is riding Passenger 2
+Car 25 has finished Passenger 10's tour
+Passenger 10 finished riding at 74842
+Passenger 10 made a ride request at 75052
+Car 15 has finished Passenger 3's tour
+Passenger 3 finished riding at 75064
+Passenger 31 made a ride request at 75071
+Car 25 accepts Passenger 5's request
+Passenger 5 started riding at 75692
+Car 25 is riding Passenger 5
+Passenger 3 made a ride request at 75695
+Car 18 accepts Passenger 1's request
+Passenger 1 started riding at 75793
+Car 18 is riding Passenger 1
+Passenger 27 made a ride request at 75795
+Car 12 accepts Passenger 21's request
+Passenger 21 started riding at 76806
+Car 12 is riding Passenger 21
+Car 14 has finished Passenger 12's tour
+Passenger 12 finished riding at 77814
+Passenger 12 exit the museum at 77815
+Car 8 has finished Passenger 7's tour
+Passenger 7 finished riding at 77884
+Passenger 7 exit the museum at 77885
+Car 19 has finished Passenger 25's tour
+Passenger 25 finished riding at 77962
+Car 20 has finished Passenger 35's tour
+Passenger 35 finished riding at 78183
+Car 5 has finished Passenger 28's tour
+Passenger 28 finished riding at 78316
+Car 22 accepts Passenger 17's request
+Passenger 17 started riding at 78332
+Car 22 is riding Passenger 17
+Car 20 accepts Passenger 22's request
+Passenger 22 started riding at 78823
+Car 20 is riding Passenger 22
+Car 24 has finished Passenger 30's tour
+Passenger 30 finished riding at 79197
+Passenger 35 made a ride request at 79202
+Car 17 has finished Passenger 14's tour
+Passenger 14 finished riding at 79430
+Car 11 has finished Passenger 4's tour
+Passenger 4 finished riding at 79436
+Passenger 28 made a ride request at 79439
+Passenger 30 made a ride request at 79450
+Passenger 14 made a ride request at 79487
+Car 3 has finished Passenger 19's tour
+Passenger 19 finished riding at 79500
+Car 3 accepts Passenger 18's request
+Passenger 18 started riding at 79550
+Car 3 is riding Passenger 18
+Car 10 has finished Passenger 6's tour
+Passenger 6 finished riding at 79930
+Car 21 has finished Passenger 23's tour
+Passenger 23 finished riding at 79934
+Car 1 accepts Passenger 32's request
+Passenger 32 started riding at 79976
+Car 1 is riding Passenger 32
+Car 8 accepts Passenger 24's request
+Passenger 24 started riding at 80057
+Car 8 is riding Passenger 24
+Passenger 23 made a ride request at 80060
+Passenger 19 made a ride request at 80111
+Car 6 has finished Passenger 20's tour
+Passenger 20 finished riding at 80356
+Passenger 25 made a ride request at 81052
+Car 10 accepts Passenger 23's request
+Passenger 6 made a ride request at 81058
+Car 4 accepts Passenger 25's request
+Car 1 has finished Passenger 8's tour
+Passenger 23 started riding at 81058
+Car 10 is riding Passenger 23
+Passenger 8 finished riding at 81068
+Car 7 has finished Passenger 16's tour
+Passenger 16 finished riding at 81071
+Passenger 25 started riding at 81077
+Car 4 is riding Passenger 25
+Passenger 16 made a ride request at 81778
+Car 11 accepts Passenger 16's request
+Passenger 16 started riding at 81789
+Car 11 is riding Passenger 16
+Car 17 accepts Passenger 35's request
+Passenger 35 started riding at 81801
+Car 17 is riding Passenger 35
+Passenger 4 made a ride request at 81812
+Car 21 accepts Passenger 6's request
+Passenger 6 started riding at 81866
+Car 21 is riding Passenger 6
+Car 13 has finished Passenger 29's tour
+Passenger 29 finished riding at 82943
+Car 9 has finished Passenger 33's tour
+Passenger 33 finished riding at 82953
+Car 9 accepts Passenger 31's request
+Passenger 31 started riding at 83010
+Car 9 is riding Passenger 31
+Car 2 has finished Passenger 13's tour
+Passenger 13 finished riding at 83016
+Passenger 13 exit the museum at 83017
+Passenger 20 made a ride request at 83272
+Car 16 has finished Passenger 26's tour
+Passenger 26 finished riding at 83777
+Car 16 accepts Passenger 11's request
+Passenger 11 started riding at 83843
+Car 16 is riding Passenger 11
+Car 7 accepts Passenger 20's request
+Passenger 20 started riding at 83932
+Car 7 is riding Passenger 20
+Car 6 accepts Passenger 28's request
+Passenger 28 started riding at 84241
+Car 6 is riding Passenger 28
+Car 23 has finished Passenger 15's tour
+Passenger 15 finished riding at 84851
+Passenger 26 made a ride request at 84871
+Car 4 has finished Passenger 9's tour
+Passenger 9 finished riding at 84903
+Passenger 9 exit the museum at 84903
+Car 15 accepts Passenger 4's request
+Passenger 4 started riding at 84956
+Car 15 is riding Passenger 4
+Car 25 has finished Passenger 5's tour
+Passenger 5 finished riding at 85766
+Car 13 accepts Passenger 26's request
+Passenger 26 started riding at 85849
+Car 13 is riding Passenger 26
+Car 18 has finished Passenger 1's tour
+Passenger 1 finished riding at 85854
+Passenger 1 exit the museum at 85855
+Car 15 has finished Passenger 2's tour
+Passenger 2 finished riding at 85889
+Car 19 accepts Passenger 3's request
+Passenger 3 started riding at 85901
+Car 19 is riding Passenger 3
+Passenger 8 made a ride request at 85907
+Car 14 accepts Passenger 19's request
+Car 5 accepts Passenger 34's request
+Passenger 19 started riding at 85942
+Car 14 is riding Passenger 19
+Car 25 accepts Passenger 14's request
+Passenger 14 started riding at 85954
+Car 25 is riding Passenger 14
+Car 2 accepts Passenger 10's request
+Passenger 10 started riding at 85969
+Car 2 is riding Passenger 10
+Passenger 33 made a ride request at 86022
+Passenger 34 started riding at 85951
+Car 5 is riding Passenger 34
+Car 12 has finished Passenger 21's tour
+Passenger 21 finished riding at 86878
+Passenger 15 made a ride request at 86907
+Passenger 21 made a ride request at 86934
+Car 24 accepts Passenger 21's request
+Passenger 21 started riding at 86952
+Car 24 is riding Passenger 21
+Passenger 29 made a ride request at 86998
+Car 22 has finished Passenger 17's tour
+Passenger 17 finished riding at 88394
+Car 20 has finished Passenger 22's tour
+Passenger 22 finished riding at 88893
+Passenger 17 made a ride request at 89464
+Car 3 accepts Passenger 17's request
+Passenger 17 started riding at 89670
+Car 3 is riding Passenger 17
+Car 22 accepts Passenger 8's request
+Passenger 8 started riding at 89740
+Car 22 is riding Passenger 8
+Car 3 has finished Passenger 18's tour
+Passenger 18 finished riding at 89745
+Passenger 18 made a ride request at 89801
+Passenger 5 made a ride request at 89835
+Car 1 accepts Passenger 27's request
+Passenger 27 started riding at 90091
+Car 1 is riding Passenger 27
+Car 23 accepts Passenger 5's request
+Passenger 5 started riding at 90831
+Car 23 is riding Passenger 5
+Car 18 accepts Passenger 30's request
+Passenger 30 started riding at 90841
+Car 18 is riding Passenger 30
+Car 1 has finished Passenger 32's tour
+Passenger 32 finished riding at 90846
+Car 8 has finished Passenger 24's tour
+Passenger 24 finished riding at 90856
+Passenger 32 made a ride request at 90903
+Passenger 24 made a ride request at 90906
+Car 12 accepts Passenger 24's request
+Passenger 2 made a ride request at 90940
+Passenger 24 started riding at 90942
+Car 12 is riding Passenger 24
+Passenger 22 made a ride request at 90950
+Car 10 accepts Passenger 18's request
+Passenger 18 started riding at 91179
+Car 10 is riding Passenger 18
+Car 20 accepts Passenger 33's request
+Passenger 33 started riding at 91400
+Car 20 is riding Passenger 33
+Car 4 has finished Passenger 25's tour
+Passenger 25 finished riding at 91824
+Car 10 has finished Passenger 23's tour
+Passenger 23 finished riding at 91828
+Passenger 23 exit the museum at 91829
+Car 11 has finished Passenger 16's tour
+Passenger 16 finished riding at 91851
+Car 17 has finished Passenger 35's tour
+Passenger 35 finished riding at 91859
+Passenger 16 made a ride request at 91908
+Car 21 has finished Passenger 6's tour
+Passenger 6 finished riding at 91929
+Car 11 accepts Passenger 32's request
+Passenger 32 started riding at 91990
+Car 11 is riding Passenger 32
+Passenger 35 made a ride request at 92918
+Passenger 6 made a ride request at 92988
+Car 8 accepts Passenger 6's request
+Passenger 6 started riding at 93178
+Car 8 is riding Passenger 6
+Car 9 has finished Passenger 31's tour
+Passenger 31 finished riding at 93183
+Passenger 25 made a ride request at 93883
+Car 17 accepts Passenger 35's request
+Car 7 has finished Passenger 20's tour
+Passenger 35 started riding at 94856
+Car 17 is riding Passenger 35
+Passenger 20 finished riding at 94861
+Car 6 has finished Passenger 28's tour
+Car 21 accepts Passenger 25's request
+Passenger 28 finished riding at 94869
+Car 16 has finished Passenger 11's tour
+Passenger 11 finished riding at 94874
+Passenger 25 started riding at 94875
+Car 21 is riding Passenger 25
+Car 9 accepts Passenger 22's request
+Car 16 accepts Passenger 16's request
+Passenger 22 started riding at 94882
+Car 9 is riding Passenger 22
+Passenger 16 started riding at 94887
+Car 16 is riding Passenger 16
+Car 4 accepts Passenger 2's request
+Passenger 2 started riding at 94895
+Car 4 is riding Passenger 2
+Car 15 has finished Passenger 4's tour
+Passenger 4 finished riding at 95017
+Car 15 accepts Passenger 15's request
+Passenger 15 started riding at 95074
+Car 15 is riding Passenger 15
+Car 13 has finished Passenger 26's tour
+Passenger 26 finished riding at 95907
+Passenger 28 made a ride request at 95942
+Passenger 11 made a ride request at 95954
+Car 19 has finished Passenger 3's tour
+Passenger 3 finished riding at 95959
+Car 14 has finished Passenger 19's tour
+Passenger 19 finished riding at 96006
+Car 2 has finished Passenger 10's tour
+Passenger 10 finished riding at 96021
+Car 7 accepts Passenger 29's request
+Car 25 has finished Passenger 14's tour
+Passenger 29 started riding at 96032
+Car 7 is riding Passenger 29
+Passenger 14 finished riding at 96032
+Passenger 14 exit the museum at 96034
+Car 25 accepts Passenger 11's request
+Passenger 3 made a ride request at 96039
+Passenger 11 started riding at 96039
+Car 25 is riding Passenger 11
+Car 14 accepts Passenger 3's request
+Passenger 3 started riding at 96053
+Car 14 is riding Passenger 3
+Passenger 19 made a ride request at 96066
+Passenger 10 made a ride request at 96066
+Car 5 has finished Passenger 34's tour
+Passenger 34 finished riding at 96423
+Passenger 20 made a ride request at 96919
+Passenger 26 made a ride request at 96964
+Car 24 has finished Passenger 21's tour
+Passenger 21 finished riding at 96968
+Car 19 accepts Passenger 26's request
+Passenger 26 started riding at 97006
+Car 19 is riding Passenger 26
+Passenger 21 made a ride request at 97025
+Passenger 4 made a ride request at 97073
+Car 6 accepts Passenger 4's request
+Passenger 4 started riding at 97362
+Car 6 is riding Passenger 4
+Car 13 accepts Passenger 21's request
+Passenger 21 started riding at 97998
+Car 13 is riding Passenger 21
+Car 24 accepts Passenger 19's request
+Passenger 19 started riding at 98077
+Car 24 is riding Passenger 19
+Passenger 34 made a ride request at 98480
+Car 2 accepts Passenger 10's request
+Passenger 10 started riding at 99067
+Car 2 is riding Passenger 10
+Passenger 31 made a ride request at 99237
+Car 3 has finished Passenger 17's tour
+Passenger 17 finished riding at 99727
+Car 3 accepts Passenger 31's request
+Passenger 31 started riding at 99791
+Car 3 is riding Passenger 31
+Car 22 has finished Passenger 8's tour
+Passenger 8 finished riding at 99803
+Car 1 has finished Passenger 27's tour
+Passenger 27 finished riding at 100150
+Car 1 accepts Passenger 34's request
+Passenger 34 started riding at 100204
+Car 1 is riding Passenger 34
+Passenger 17 made a ride request at 100782
+Car 22 accepts Passenger 20's request
+Passenger 20 started riding at 100872
+Car 22 is riding Passenger 20
+Car 23 has finished Passenger 5's tour
+Passenger 5 finished riding at 100890
+Car 18 has finished Passenger 30's tour
+Passenger 30 finished riding at 100905
+Passenger 30 made a ride request at 100961
+Car 12 has finished Passenger 24's tour
+Passenger 24 finished riding at 101000
+Passenger 24 made a ride request at 101055
+Car 10 has finished Passenger 18's tour
+Passenger 18 finished riding at 101238
+Passenger 18 made a ride request at 101295
+Car 10 accepts Passenger 18's request
+Passenger 18 started riding at 101300
+Car 10 is riding Passenger 18
+Car 20 has finished Passenger 33's tour
+Passenger 33 finished riding at 101458
+Car 20 accepts Passenger 30's request
+Passenger 30 started riding at 101517
+Car 20 is riding Passenger 30
+Car 11 has finished Passenger 32's tour
+Passenger 32 finished riding at 102094
+Car 11 accepts Passenger 24's request
+Passenger 24 started riding at 102133
+Car 11 is riding Passenger 24
+Passenger 32 made a ride request at 102150
+Car 8 has finished Passenger 6's tour
+Passenger 6 finished riding at 103236
+Passenger 6 exit the museum at 103237
+Passenger 27 made a ride request at 103760
+Passenger 8 made a ride request at 103874
+Car 5 accepts Passenger 8's request
+Passenger 8 started riding at 104128
+Car 5 is riding Passenger 8
+Passenger 33 made a ride request at 104516
+Car 17 has finished Passenger 35's tour
+Car 4 has finished Passenger 2's tour
+Passenger 2 finished riding at 104919
+Passenger 35 finished riding at 104916
+Car 9 has finished Passenger 22's tour
+Passenger 22 finished riding at 104925
+Car 21 has finished Passenger 25's tour
+Passenger 25 finished riding at 104939
+Passenger 5 made a ride request at 104944
+Car 18 accepts Passenger 27's request
+Passenger 27 started riding at 104953
+Car 18 is riding Passenger 27
+Car 16 accepts Passenger 17's request
+Car 16 has finished Passenger 16's tour
+Passenger 16 finished riding at 104999
+Passenger 17 started riding at 105001
+Car 9 accepts Passenger 32's request
+Passenger 32 started riding at 105004
+Car 9 is riding Passenger 32
+Passenger 16 exit the museum at 105000
+Car 16 is riding Passenger 17
+Car 12 accepts Passenger 5's request
+Passenger 5 started riding at 105057
+Car 12 is riding Passenger 5
+Car 15 has finished Passenger 15's tour
+Passenger 15 finished riding at 105130
+Car 15 accepts Passenger 28's request
+Passenger 28 started riding at 105192
+Car 15 is riding Passenger 28
+Car 8 accepts Passenger 33's request
+Passenger 33 started riding at 105297
+Car 8 is riding Passenger 33
+Passenger 35 made a ride request at 105978
+Car 7 has finished Passenger 29's tour
+Car 25 has finished Passenger 11's tour
+Car 14 has finished Passenger 3's tour
+Passenger 3 finished riding at 106123
+Passenger 29 finished riding at 106119
+Passenger 11 finished riding at 106131
+Passenger 3 made a ride request at 106201
+Car 25 accepts Passenger 35's request
+Car 14 accepts Passenger 3's request
+Passenger 3 started riding at 106216
+Car 14 is riding Passenger 3
+Passenger 35 started riding at 106219
+Car 25 is riding Passenger 35
+Passenger 25 made a ride request at 106971
+Car 23 accepts Passenger 25's request
+Passenger 25 started riding at 106975
+Car 23 is riding Passenger 25
+Passenger 22 made a ride request at 106983
+Car 17 accepts Passenger 22's request
+Passenger 22 started riding at 106986
+Car 17 is riding Passenger 22
+Car 19 has finished Passenger 26's tour
+Passenger 26 finished riding at 107062
+Passenger 26 exit the museum at 107063
+Passenger 15 made a ride request at 107184
+Car 21 accepts Passenger 15's request
+Passenger 11 made a ride request at 107186
+Passenger 15 started riding at 107186
+Car 21 is riding Passenger 15
+Car 6 has finished Passenger 4's tour
+Passenger 4 finished riding at 107418
+Passenger 4 exit the museum at 107419
+Car 4 accepts Passenger 11's request
+Passenger 11 started riding at 108014
+Car 4 is riding Passenger 11
+Car 13 has finished Passenger 21's tour
+Passenger 21 finished riding at 108072
+Passenger 21 made a ride request at 108121
+Car 19 accepts Passenger 21's request
+Passenger 21 started riding at 108123
+Car 19 is riding Passenger 21
+Car 24 has finished Passenger 19's tour
+Passenger 19 finished riding at 108133
+Passenger 19 exit the museum at 108133
+Car 2 has finished Passenger 10's tour
+Passenger 10 finished riding at 109158
+Passenger 10 exit the museum at 109163
+Car 3 has finished Passenger 31's tour
+Passenger 31 finished riding at 109846
+Passenger 2 made a ride request at 109977
+Car 7 accepts Passenger 2's request
+Passenger 2 started riding at 109979
+Car 7 is riding Passenger 2
+Passenger 29 made a ride request at 110185
+Car 24 accepts Passenger 29's request
+Passenger 29 started riding at 110188
+Car 24 is riding Passenger 29
+Car 1 has finished Passenger 34's tour
+Passenger 34 finished riding at 110263
+Car 22 has finished Passenger 20's tour
+Passenger 20 finished riding at 110946
+Passenger 20 exit the museum at 110948
+Car 10 has finished Passenger 18's tour
+Passenger 18 finished riding at 111360
+Passenger 18 exit the museum at 111361
+Car 20 has finished Passenger 30's tour
+Passenger 30 finished riding at 111576
+Passenger 30 exit the museum at 111577
+Car 11 has finished Passenger 24's tour
+Passenger 24 finished riding at 112199
+Passenger 24 made a ride request at 112258
+Car 3 accepts Passenger 24's request
+Passenger 24 started riding at 112262
+Car 3 is riding Passenger 24
+Passenger 34 made a ride request at 112320
+Car 13 accepts Passenger 34's request
+Passenger 34 started riding at 112323
+Car 13 is riding Passenger 34
+Car 5 has finished Passenger 8's tour
+Passenger 8 finished riding at 114220
+Car 18 has finished Passenger 27's tour
+Passenger 27 finished riding at 115028
+Car 16 has finished Passenger 17's tour
+Car 9 has finished Passenger 32's tour
+Passenger 17 finished riding at 115102
+Car 12 has finished Passenger 5's tour
+Passenger 5 finished riding at 115114
+Passenger 5 exit the museum at 115114
+Passenger 32 finished riding at 115107
+Passenger 32 made a ride request at 115171
+Car 1 accepts Passenger 32's request
+Passenger 32 started riding at 115174
+Car 1 is riding Passenger 32
+Car 15 has finished Passenger 28's tour
+Passenger 28 finished riding at 115250
+Car 8 has finished Passenger 33's tour
+Passenger 33 finished riding at 115354
+Passenger 31 made a ride request at 115918
+Car 6 accepts Passenger 31's request
+Passenger 31 started riding at 115932
+Car 6 is riding Passenger 31
+Passenger 17 made a ride request at 116184
+Car 10 accepts Passenger 17's request
+Passenger 17 started riding at 116192
+Car 10 is riding Passenger 17
+Car 14 has finished Passenger 3's tour
+Passenger 3 finished riding at 116294
+Passenger 3 exit the museum at 116295
+Passenger 28 made a ride request at 116321
+Car 20 accepts Passenger 28's request
+Car 25 has finished Passenger 35's tour
+Passenger 28 started riding at 116335
+Car 20 is riding Passenger 28
+Passenger 35 finished riding at 116336
+Passenger 35 exit the museum at 116340
+Car 23 has finished Passenger 25's tour
+Car 17 has finished Passenger 22's tour
+Passenger 25 finished riding at 117076
+Passenger 25 exit the museum at 117080
+Passenger 22 finished riding at 117077
+Passenger 22 exit the museum at 117083
+Car 21 has finished Passenger 15's tour
+Passenger 15 finished riding at 117241
+Passenger 15 exit the museum at 117242
+Car 4 has finished Passenger 11's tour
+Passenger 11 finished riding at 118100
+Passenger 11 exit the museum at 118101
+Passenger 27 made a ride request at 118106
+Car 22 accepts Passenger 27's request
+Passenger 27 started riding at 118115
+Car 22 is riding Passenger 27
+Car 19 has finished Passenger 21's tour
+Passenger 21 finished riding at 118179
+Passenger 21 exit the museum at 118179
+Passenger 8 made a ride request at 118277
+Car 2 accepts Passenger 8's request
+Passenger 8 started riding at 118279
+Car 2 is riding Passenger 8
+Passenger 33 made a ride request at 118409
+Car 11 accepts Passenger 33's request
+Passenger 33 started riding at 118411
+Car 11 is riding Passenger 33
+Car 7 has finished Passenger 2's tour
+Passenger 2 finished riding at 120054
+Passenger 2 exit the museum at 120056
+Car 24 has finished Passenger 29's tour
+Passenger 29 finished riding at 120245
+Passenger 29 exit the museum at 120245
+Car 3 has finished Passenger 24's tour
+Passenger 24 finished riding at 122283
+Passenger 24 exit the museum at 122284
+Car 13 has finished Passenger 34's tour
+Passenger 34 finished riding at 122382
+Passenger 34 exit the museum at 122383
+Car 1 has finished Passenger 32's tour
+Passenger 32 finished riding at 125259
+Passenger 32 exit the museum at 125260
+Car 6 has finished Passenger 31's tour
+Passenger 31 finished riding at 125987
+Car 10 has finished Passenger 17's tour
+Passenger 17 finished riding at 126270
+Passenger 17 exit the museum at 126270
+Car 20 has finished Passenger 28's tour
+Passenger 28 finished riding at 126419
+Passenger 28 exit the museum at 126420
+Car 22 has finished Passenger 27's tour
+Passenger 27 finished riding at 128280
+Passenger 27 exit the museum at 128283
+Car 11 has finished Passenger 33's tour
+Passenger 33 finished riding at 128470
+Car 2 has finished Passenger 8's tour
+Passenger 8 finished riding at 128532
+Passenger 8 exit the museum at 128535
+Passenger 33 made a ride request at 131526
+Car 9 accepts Passenger 33's request
+Passenger 33 started riding at 131530
+Car 9 is riding Passenger 33
+Passenger 31 made a ride request at 132062
+Car 16 accepts Passenger 31's request
+Passenger 31 started riding at 132077
+Car 16 is riding Passenger 31
+Car 9 has finished Passenger 33's tour
+Passenger 33 finished riding at 141806
+Passenger 33 exit the museum at 141820
+Car 16 has finished Passenger 31's tour
+Passenger 31 finished riding at 142142
+Passenger 31 exit the museum at 142319
+
+Passenger average tour time: 105882
+Car average tour time: 11280

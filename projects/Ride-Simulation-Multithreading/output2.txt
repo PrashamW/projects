@@ -1,0 +1,56 @@
+Passenger 1 enters the museum at 50:3170006218534
+Passenger 4 enters the museum at 50:3170006245813
+Passenger 2 enters the museum at 50:3170006261501
+Passenger 3 enters the museum at 50:3170006302635
+Passenger 4 made a ride request at 50:3170006663958
+Car 1 accepts Passenger 4's request
+Passenger 4 started riding at 50:3170006692847
+Car 1 is riding Passenger 4
+Passenger 1 made a ride request at 50:3170007716509
+Car 2 accepts Passenger 1's request
+Passenger 1 started riding at 50:3170007728461
+Car 2 is riding Passenger 1
+Passenger 2 made a ride request at 50:3170009723219
+Car 3 accepts Passenger 2's request
+Passenger 2 started riding at 50:3170009734860
+Car 3 is riding Passenger 2
+Passenger 3 made a ride request at 50:3170009858542
+Car 4 accepts Passenger 3's request
+Passenger 3 started riding at 50:3170009869100
+Car 4 is riding Passenger 3
+Car 1 has finished Passenger 4's tour
+Passenger 4 finished riding at 50:3170016865704
+Passenger 4 made a ride request at 50:3170016930583
+Car 5 accepts Passenger 4's request
+Passenger 4 started riding at 50:3170016937784
+Car 5 is riding Passenger 4
+Car 2 has finished Passenger 1's tour
+Passenger 1 finished riding at 50:3170017896292
+Passenger 1 made a ride request at 50:3170019047639
+Car 1 accepts Passenger 1's request
+Passenger 1 started riding at 50:3170019058171
+Car 1 is riding Passenger 1
+Car 3 has finished Passenger 2's tour
+Passenger 2 finished riding at 50:3170019841291
+Car 4 has finished Passenger 3's tour
+Passenger 3 finished riding at 50:3170020031709
+Passenger 2 made a ride request at 50:3170023041430
+Car 2 accepts Passenger 2's request
+Passenger 2 started riding at 50:3170023059970
+Car 2 is riding Passenger 2
+Passenger 3 made a ride request at 50:3170023189038
+Car 4 accepts Passenger 3's request
+Passenger 3 started riding at 50:3170023206923
+Car 4 is riding Passenger 3
+Car 5 has finished Passenger 4's tour
+Passenger 4 finished riding at 50:3170027148311
+Passenger 4 exit the museum at 50:3170027152039
+Car 1 has finished Passenger 1's tour
+Passenger 1 finished riding at 50:3170029314207
+Passenger 1 exit the museum at 50:3170029317728
+Car 2 has finished Passenger 2's tour
+Passenger 2 finished riding at 50:3170033151426
+Passenger 2 exit the museum at 50:3170033154759
+Car 4 has finished Passenger 3's tour
+Passenger 3 finished riding at 50:3170033292663
+Passenger 3 exit the museum at 50:3170033304413
