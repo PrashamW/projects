@@ -1,0 +1,1 @@
+gcc *.cpp -lstdc++ -o main && ./main

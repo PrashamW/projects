@@ -1,0 +1,90 @@
+class Faculty : public Base{
+    Faculty(string n, string i) : Base(n, i){
+    }
+    public:
+        Course c;
+        void grade(string student_id){
+            Node *current = c.students->start;
+            while(current != c.students->end){
+                if(current->data->id == student_id)
+                current = current->next;
+            }
+        }
+
+};
+
+
+
+class Student : public Base {
+    Student(string n, string i) : Base(n, i) {
+    }
+    public:
+        List *courseList = new List();
+        void registerCourse(Course *c){
+            courseList->addNode(c);
+        }
+        void deregisterCourse(Course *c){
+            courseList->deleteNode(c);
+        }
+        string lookUpGrade(Course c){
+            return c.grade;
+        }
+};
+
+class Course : public Base{
+    public:
+        List *students;
+        Faculty *faculty;
+        string grade;
+    
+    Course(Faculty *f){
+        faculty = f;
+    }
+
+    void registerStudent(Student *s) {
+        students->addNode(s);
+    }
+
+    void deregisterStudent(Student *s) {
+        students->deleteNode(s);
+    }
+};
+
+List *studentList = new List();
+List *courseList = new List();
+List *facultyList = new List();
+
+int addStudent(string p[]) {
+    studentList->add(new Student(p[0], p[1]));
+}
+
+struct command {
+    string command;
+    string params[];
+};
+parseCommand(string input) {
+    
+    return command;
+
+}
+
+// studentList->addNode((void *)s1);
+
+    // Faculty *f1 = new Falculty("F1", "f1");
+    // Base *f = f1;
+
+    // facultyList->addNode((void *)f1);
+
+    // Course c = new Course(f1);
+    // courseList->addNode(c);
+
+    // c.registerStudent(s1);
+    // c.deregisterStudent(s1);
+
+    // // > deregister r1 c1
+    // Course *c = courseList->find("c1");
+    // Student *s = studentList->find("r1");
+    // studentList->searchNode(s1);
+    // c->deregister(s);
+
+    
